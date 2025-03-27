@@ -12,5 +12,5 @@ This project is a step-by-step implementation of a Denoising Diffusion Probabili
 
 🛠️ Setup
 1. Install dependencies:
-   pip install torch torchvision torchaudio matplotlib numpy
+   $ pip install torch torchvision torchaudio matplotlib numpy
 
