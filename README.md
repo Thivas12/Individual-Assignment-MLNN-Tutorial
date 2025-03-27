@@ -1,6 +1,6 @@
 🌀 Diffusion Models from Scratch with PyTorch
 
-This project is a step-by-step implementation of a Denoising Diffusion Probabilistic Model (DDPM) using PyTorch. It walks through the full training pipeline—from data loading and noise scheduling to building a simplified U-Net, training the model, and generating new images from pure noise.
+This project is a step-by-step implementation of a Denoising Diffusion Probabilistic Model (DDPM) using PyTorch. It walks through the full training pipeline from data loading and noise scheduling to building a simplified U-Net, training the model, and generating new images from pure noise.
 
 📖 Features:
 * 🚀 Uses CUDA for fast GPU-accelerated training
@@ -10,4 +10,7 @@ This project is a step-by-step implementation of a Denoising Diffusion Probabili
 * 🎨 Generates new images by reversing the diffusion steps
 * 👁️ Visualizes intermediate denoising steps
 
-  
+🛠️ Setup
+1. Install dependencies:
+   pip install torch torchvision torchaudio matplotlib numpy
+
